@@ -1,6 +1,6 @@
 # Data Projects - Siddhesh Narkar
 
-This repository contains data analysis projects** built using Excel, SQL, and Power BI.
+This repository contains data analysis projects built using Excel, SQL, and Power BI.
 
 ## Project Structure
 
