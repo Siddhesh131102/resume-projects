@@ -4,15 +4,15 @@ This repository contains data analysis projects built using Excel, SQL, and Powe
 
 ## Project Structure
 
-- **Excel/** – Business Insights analysis using Pivot Tables, Pivot Charts, Slicers, and Advanced Formulas.  
-- **SQL/** – SQL queries including:
+- **Excel** – Business Insights analysis using Pivot Tables, Pivot Charts, Slicers, and Advanced Formulas.  
+- **SQL** – SQL queries including:
   - Months by revenue  
   - Movies above average rental rate  
   - Movies not available in inventory  
   - Movies rented per store  
   - Top 10 customers by payment  
   - Top 10 movies by revenue  
-- **Power BI/** – Fully interactive dashboards showing business insights and KPIs.
+- **Power BI** – Fully interactive dashboards showing business insights and KPIs.
 
 ## Project Summary
 
@@ -40,5 +40,5 @@ Each dashboard shows key metrics, category performance, regional trends, and all
 ## How to Run
 
 - **Excel** – Open the Excel file in Microsoft Excel.  
-- **SQL** – Run the `.sql` file in any SQL tool.  
-- **Power BI** – Open the `.pbix` file in Power BI Desktop.
+- **SQL** – Run the sql file in any SQL tool.  
+- **Power BI** – Open the .pbix file in Power BI Desktop.
