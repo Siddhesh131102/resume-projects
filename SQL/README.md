@@ -20,11 +20,6 @@ The project includes SQL queries demonstrating analytical skills using real-worl
 - **Subquery** (Average rental rate calculation)
 - **Aggregate Functions** (SUM, COUNT, AVG)
 
-##  Tools & Technologies
-- **PostgreSQL**
-- **pgAdmin**
-- SQL (Data analysis and reporting)
-
 ## Purpose
 This project demonstrates the use of SQL to extract meaningful insights from transactional databases using joins, aggregation, filtering, and subqueries.
 
