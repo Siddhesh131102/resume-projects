@@ -1,9 +1,9 @@
 # Excel Business Insights Project
-
-## 📌 Overview
+**Note-**If any cards appear blank, please click ‘Enable Editing’ in Excel. This happens because the card relies on a PivotTable total linked through a cell, and calculations are disabled in Protected View.
+##  Overview
 This project analyzes business sales performance. The goal was to clean the raw dataset, build interactive dashboards, and generate meaningful business insights.
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 The raw dataset contained formatting issues and inconsistent data. The following steps were performed:
 
 - Used **Power Query** for data cleaning and standardization
@@ -12,10 +12,10 @@ The raw dataset contained formatting issues and inconsistent data. The following
 - Created a **new calculated column using VLOOKUP**
 - Structured and finalized clean dataset before dashboard creation
 
-## 📊 Dashboards & KPIs
+##  Dashboards & KPIs
 Created 4 interactive dashboards visualizing business performance and key metrics.
 
-### 1️⃣ Business Summary Dashboard
+###  Business Summary Dashboard
 **KPIs Included**
 - **Total Sales**
 - **Total Order Quantity**
@@ -35,32 +35,32 @@ Created 4 interactive dashboards visualizing business performance and key metric
 - Top 3 countries contributing to decline
 - Product line contributing the most to decline
 
-### 2️⃣ Customer Analysis Dashboard
+###  Customer Analysis Dashboard
 - **Total Sales, Total Order Quantity, Unique Orders**
 - Unique Customers by Territory (Pie Chart)
 - Top 10 Customers by Order Quantity
 - Unique Customers Trend by Month (Line Chart)
 
-### 3️⃣ Product Performance Dashboard
+###  Product Performance Dashboard
 - **Same KPIs as Business Summary (Filtered by Product Line slicer)**
 - Top 10 Countries by Order Quantity
 - Order Quantity by Territory (Pie Chart)
 - Order Quantity by Month (Line Chart)
 
-### 4️⃣ Geographical Dashboard
+###  Geographical Dashboard
 - **Total Sales and Total Order Quantity**
 - **Latest Month Sales and Order Quantity** (by Year & Country filter)
 - Countries active last year but not this year
 - Top 3 declines by City and Product Line
 
 
-## 🧾 Prep Sheet
+##  Prep Sheet
 Includes supporting calculations:
 - KPI formulas & logic
 - Monthly breakdown calculations
 - Insight analysis foundation
 
-## 🛠 Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 - Power Query
 - Pivot Tables & Pivot Charts
 - Slicers & Filters
