@@ -1,5 +1,5 @@
 # Excel Business Insights Project
-**Note-**If any cards appear blank, please click ‘Enable Editing’ in Excel. This happens because the card relies on a PivotTable total linked through a cell, and calculations are disabled in Protected View.
+**Note-** If any cards appear blank, please click ‘Enable Editing’ in Excel. This happens because the card relies on a PivotTable total linked through a cell, and calculations are disabled in Protected View.
 ##  Overview
 This project analyzes business sales performance. The goal was to clean the raw dataset, build interactive dashboards, and generate meaningful business insights.
 
