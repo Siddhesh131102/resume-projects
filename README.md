@@ -41,4 +41,4 @@ Each dashboard shows key metrics, category performance, regional trends, and all
 
 - **Excel** – Open the Excel file in Microsoft Excel.  
 - **SQL** – Run the sql file in any SQL tool.  
-- **Power BI** – Open the .pbix file in Power BI Desktop.
+- **Power BI** – Open the pbix file in Power BI Desktop.
