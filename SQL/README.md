@@ -3,7 +3,7 @@
 ##  Overview
 This project explores business insights from a movie rental database using PostgreSQL. The goal was to analyze customer behavior, revenue trends, inventory availability, and store performance using SQL queries.
 
-## 🛠 Queries Performed
+##  Queries Performed
 The project includes SQL queries demonstrating analytical skills using real-world business scenarios:
 - Revenue by Month
 - Movies with Rental Rate Above Average (Subquery)
