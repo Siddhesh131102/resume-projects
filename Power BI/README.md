@@ -34,7 +34,7 @@ Some important measures include:
 
 ##  Dashboards & Visuals
 
-### ** Executive Summary Dashboard**
+###  Executive Summary Dashboard
 **KPIs:** 
 - Total Revenue  
 - Total Profit  
@@ -48,20 +48,20 @@ Some important measures include:
 - Revenue by Country
 - Revenue Over Time (Line Chart)
 
-### ** Geographical Analysis**
+###  Geographical Analysis
 - Map visual showing **Total Transactions by Country, City, and State**
   
-### ** Product Performance**
+###  Product Performance
 - Revenue / Profit / Total Returns comparison
 - Transactions by Country
 - **Top 5 Products** by Transaction & Profit
 
-### ** Customer Analysis**
+### Customer Analysis
 - **Unique Customers**
 - **Average Revenue per Customer**
 - Revenue distribution among segments
 
-### ** Store Performance**
+###  Store Performance
 - KPIs: Revenue / Profit / Return Rate
 - Store-wise performance comparison
 
