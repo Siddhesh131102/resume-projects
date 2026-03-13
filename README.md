@@ -35,8 +35,6 @@ The report includes **5 dashboards**:
 4. Store Performance  
 5. Geographical Analysis  
 
-Each dashboard shows key metrics, category performance, regional trends, and allows drill-down analysis.
-
 ## How to Run
 
 - **Excel** – Open the Excel file in Microsoft Excel.  
