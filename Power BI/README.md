@@ -35,7 +35,7 @@ Some important measures include:
 ##  Dashboards & Visuals
 
 ###  Executive Summary Dashboard
-**KPIs:** 
+**Key Metrics:** 
 - Total Revenue  
 - Total Profit  
 - Return Rate  
@@ -62,7 +62,7 @@ Some important measures include:
 - Revenue distribution among segments
 
 ###  Store Performance
-- KPIs: Revenue / Profit / Return Rate
+- Key Metrics: Revenue / Profit / Return Rate
 - Store-wise performance comparison
 
 ##  Tools & Technologies
