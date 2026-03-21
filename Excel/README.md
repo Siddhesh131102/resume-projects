@@ -16,7 +16,7 @@ The raw dataset contained formatting issues and inconsistent data. The following
 Created 4 interactive dashboards visualizing business performance and key metrics.
 
 ###  Business Summary Dashboard
-**KPIs Included**
+**Key Metrics Included**
 - **Total Sales**
 - **Total Order Quantity**
 - **Unique Orders**
@@ -42,7 +42,7 @@ Created 4 interactive dashboards visualizing business performance and key metric
 - Unique Customers Trend by Month (Line Chart)
 
 ###  Product Performance Dashboard
-- **Same KPIs as Business Summary (Filtered by Product Line slicer)**
+- **Same Key Metrics as Business Summary (Filtered by Product Line slicer)**
 - Top 10 Countries by Order Quantity
 - Order Quantity by Territory (Pie Chart)
 - Order Quantity by Month (Line Chart)
@@ -56,7 +56,7 @@ Created 4 interactive dashboards visualizing business performance and key metric
 
 ##  Prep Sheet
 Includes supporting calculations:
-- KPI formulas & logic
+- Key Metrices formulas & logic
 - Monthly breakdown calculations
 - Insight analysis foundation
 
