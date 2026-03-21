@@ -56,7 +56,7 @@ Created 4 interactive dashboards visualizing business performance and key metric
 
 ##  Prep Sheet
 Includes supporting calculations:
-- Key Metrices formulas & logic
+- Key Metrics formulas & logic
 - Monthly breakdown calculations
 - Insight analysis foundation
 
