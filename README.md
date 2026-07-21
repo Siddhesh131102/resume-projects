@@ -1,6 +1,6 @@
 # Projects - Siddhesh Narkar
 
-This repository contains data analysis projects built using Excel, SQL, Power BI, and Tally Prime.
+This repository contains projects built using Excel, SQL, Power BI, and Tally Prime.
 
 ---
 
