@@ -84,7 +84,7 @@ Key highlights:
 In this project, I built a complete accounting workflow for a company in Tally Prime, covering everything from daily transactions to end-of-year financial statements.
 
 **Key Highlights:**
-*   **Core Transaction Processing:** Recorded day-to-day business operations—including buying inventory (Wireless Mice), selling to B2B clients, and handling regular business expenses—using Payment, Receipt, Purchase, and Sales vouchers.
+*   **Core Transaction Processing:** Recorded day-to-day business operations including buying inventory (Wireless Mice), selling to B2B clients, and handling regular business expenses using Payment, Receipt, Purchase, and Sales vouchers.
 *   **Automated Tax Setup:** Applied 18% GST directly to ledgers, allowing Tally's automated tax engine to split and calculate CGST and SGST without manual calculation errors.
 *   **Asset & Depreciation Management:** Logged a ₹1,00,000 office computer purchase and calculated year-end depreciation using the 40% Written Down Value (WDV) method to keep asset valuations accurate.
 *   **Cash & Overhead Management:** Managed cash flow between the bank and physical office drawer using Contra entries, while tracking indirect operational expenses to see their impact on net profit.
