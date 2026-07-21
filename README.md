@@ -27,6 +27,11 @@ This repository contains data analysis projects built using Excel, SQL, Power BI
   * Year-over-year (YoY) growth analysis
   * Correlation analysis (CPI, fuel price, unemployment)
 
+*   **Tally Prime – Corporate Bookkeeping & Asset Management Simulation:**
+    *   Company setup and recording initial capital inflows
+    *   B2B purchases and sales with automated GST calculations
+    *   Fixed asset tracking and year-end depreciation adjustments
+    *   Cash management with Contra entries and expense tracking
 ---
 
 ##  Project Summary
