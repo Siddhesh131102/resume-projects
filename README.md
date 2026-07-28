@@ -73,4 +73,3 @@ In this project, I built a complete accounting workflow for a company in Tally P
 * **Excel** – Open the Excel file in Microsoft Excel
 * **SQL** – Run the SQL file in any SQL tool
 * **Power BI** – Open the `.pbix` file in Power BI Desktop
-* **Python** – Open the notebook in Google Colab and upload `Walmart_Sales.csv` before running
