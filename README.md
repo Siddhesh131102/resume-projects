@@ -58,20 +58,6 @@ Includes 5 dashboards:
 
 ---
 
-### Python (Pandas) Project
-
-In this project, I analyzed Walmart sales data using Python (Pandas) to understand sales patterns and business performance.
-
-Key highlights:
-
-* Identified top-performing stores
-* Analyzed monthly and yearly sales trends
-* Found that sales are higher during holiday periods
-* Performed YoY analysis to identify high-growth months
-* Observed that external factors have minimal impact on sales
-
----
-
 ### Tally Prime Project
 In this project, I built a complete accounting workflow for a company in Tally Prime, covering everything from daily transactions to end-of-year financial statements.
 
