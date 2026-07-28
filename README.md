@@ -19,14 +19,6 @@ This repository contains projects built using Excel, SQL, Power BI, and Tally Pr
 
 * **Power BI** – Interactive dashboards showing business insights and KPIs
 
-* **Python (Pandas)** – Walmart Sales Data Analysis:
-
-  * Data cleaning and preprocessing
-  * Monthly and yearly sales trends
-  * Holiday vs non-holiday analysis
-  * Year-over-year (YoY) growth analysis
-  * Correlation analysis (CPI, fuel price, unemployment)
-
 *   **Tally Prime – Corporate Bookkeeping & Asset Management Simulation:**
     *   Company setup and recording initial capital inflows
     *   B2B purchases and sales with automated GST calculations
